@@ -1,0 +1,27 @@
+{
+  "match_id": "match_sample_001",
+  "home_team": "FC Momentum",
+  "away_team": "United FC",
+  "date": "2024-06-01",
+  "competition": "Sample League",
+  "events": [
+    {"minute": 3, "second": 22, "type": "Shot", "team": "FC Momentum", "player": "Striker A", "outcome": "Saved"},
+    {"minute": 8, "second": 5, "type": "Carry", "team": "United FC", "player": "Midfielder B", "outcome": "Complete"},
+    {"minute": 12, "second": 44, "type": "Foul Committed", "team": "FC Momentum", "player": "Defender C", "outcome": "Yellow Card"},
+    {"minute": 15, "second": 10, "type": "Shot", "team": "United FC", "player": "Forward D", "outcome": "Goal"},
+    {"minute": 22, "second": 0, "type": "Substitution", "team": "FC Momentum", "player": "Sub E", "outcome": "Complete"},
+    {"minute": 27, "second": 33, "type": "Pressure", "team": "FC Momentum", "player": "Midfielder F", "outcome": "Successful"},
+    {"minute": 29, "second": 15, "type": "Ball Recovery", "team": "FC Momentum", "player": "Midfielder G", "outcome": "Successful"},
+    {"minute": 31, "second": 50, "type": "Shot", "team": "FC Momentum", "player": "Striker H", "outcome": "Goal"},
+    {"minute": 45, "second": 0, "type": "Carry", "team": "United FC", "player": "Midfielder I", "outcome": "Incomplete"},
+    {"minute": 52, "second": 20, "type": "Red Card", "team": "United FC", "player": "Defender J", "outcome": "Red Card"},
+    {"minute": 55, "second": 0, "type": "Shot", "team": "FC Momentum", "player": "Striker A", "outcome": "Goal"},
+    {"minute": 60, "second": 0, "type": "Substitution", "team": "United FC", "player": "Sub K", "outcome": "Complete"},
+    {"minute": 67, "second": 40, "type": "Tackle", "team": "United FC", "player": "Midfielder L", "outcome": "Successful"},
+    {"minute": 72, "second": 5, "type": "Shot", "team": "United FC", "player": "Forward M", "outcome": "Saved"},
+    {"minute": 78, "second": 30, "type": "Dribble", "team": "FC Momentum", "player": "Winger N", "outcome": "Successful"},
+    {"minute": 82, "second": 10, "type": "Shot", "team": "FC Momentum", "player": "Striker A", "outcome": "Saved"},
+    {"minute": 88, "second": 0, "type": "Dispossessed", "team": "FC Momentum", "player": "Midfielder O", "outcome": "Out"},
+    {"minute": 90, "second": 0, "type": "Shot", "team": "United FC", "player": "Forward P", "outcome": "Saved"}
+  ]
+}

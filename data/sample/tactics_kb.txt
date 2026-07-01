@@ -1,0 +1,32 @@
+SOCCER TACTICAL KNOWLEDGE BASE
+
+== Substitution Effects ==
+Substitutions typically occur at 60-75 minutes and can shift momentum significantly.
+Fresh legs increase pressing intensity and can destabilize an opponent's defensive shape.
+A defensive substitution signals a team switching to a low-block or 5-at-the-back shape.
+A forward substitution signals increased attacking intent, often shifting to 4-3-3 or 3-4-3.
+
+== Red Card Impact ==
+A red card forces the affected team into a defensive block, conceding possession.
+The team with numerical advantage typically switches to a wider formation to exploit space.
+Momentum almost always shifts to the team gaining the numerical advantage after a red card.
+
+== High Pressing Phases ==
+High pressing (gegenpressing) forces turnovers in dangerous areas, creating quick transitions.
+When a team wins 3+ tackles in 5 minutes, it usually signals a pressing trap being set.
+Pressing success rate above 30% in a window correlates with momentum shifts.
+
+== Possession Shifts ==
+Sustained possession above 65% over 10 minutes indicates dominance.
+Loss of possession in the final third often triggers a counter-attacking shift.
+Recycling possession through a defensive midfielder ("double pivot") signals defensive consolidation.
+
+== Set Piece Momentum ==
+Goals from set pieces often shift momentum as they change game state and crowd energy.
+A team conceding a set piece goal in their own box frequently drops into a deeper defensive line.
+
+== Tactical Patterns ==
+4-2-3-1: High pressing with midfield control. Vulnerable to wide overloads.
+4-3-3: Wing-dominant. Gains momentum through 1v1 dribbles and overloads.
+3-5-2: Compact mid-block with wing-back attacks. Shifts momentum through transition.
+5-4-1: Defensive shape designed to absorb pressure; counter-attack focused.
