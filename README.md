@@ -87,6 +87,6 @@ This prototype demonstrates the core reasoning engine. Future enhancements will 
 
 Built for the June Innovation Challenge & Learning Lab.
 
-Likitha Sathvik Potineni
-Himanshu Pant
+Likitha Sathvik Potineni, 
+Himanshu Pant, 
 Sri Rupin Potula
