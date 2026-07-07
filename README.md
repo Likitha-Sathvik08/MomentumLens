@@ -81,8 +81,12 @@ This prototype demonstrates the core reasoning engine. Future enhancements will 
 
 ## 📺 Demo Video
 
-[Link to YouTube / Challenge Platform Video]
+[[Link to YouTube](https://www.youtube.com/watch?v=odQ85rqv50s&t=61s)]
 
 ## 👥 Team
 
 Built for the June Innovation Challenge & Learning Lab.
+
+Likitha Sathvik Potineni
+Himanshu Pant
+Sri Rupin Potula
